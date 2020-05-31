@@ -1,0 +1,227 @@
+.margin {
+    display: inline-block;
+    vertical-align: middle;
+}
+nav{
+	display: inline-block;
+	vertical-align: bottom;
+}
+ul{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+	font-size: 22px;
+	font-family: 'BPG Nino Mtavruli';
+	vertical-align: middle;
+	font-weight:bold;
+}
+header{
+	margin: 30px 0 0 30px;
+}
+.mtavari{
+	margin: 0 20px 0 50px;
+	color:#EE4036;
+}
+.mtavari1{
+	margin: 0 20px 0 50px;
+	color:#3D58A6;
+}
+.kontaktebi{
+	margin-left: 40px;
+	color:#3D58A6;
+}
+.kontaktebi1{
+	margin-left: 40px;
+	color:#EE4036;
+}
+.siaxleebi{
+	color:#3D58A6;
+}
+.siaxleebi1{
+	color:#EE4036;
+}
+.container {
+	margin:90px 0 0 98px;
+    display: inline-block;
+    position: relative;
+    color: #E6E6E6;
+    font-size: 30px;
+    font-weight:bold;
+    font-family: 'BPG Nino Mtavruli';
+}
+.top-left {
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+.top-left p{
+	margin-top: 8px;
+}
+#Roboto {
+	font-family: 'Roboto-Bold';
+}
+#roboto{
+	font-family: 'Roboto-Bold';
+}
+h2{ 
+	margin: 100px 0 30px 98px;
+	font-size: 24px;
+	font-family: 'Roboto-Regular';
+	color:#000000;
+}
+.box1{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	margin:0 30px 70px 98px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.box2{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+	display: inline-block;
+	margin-bottom: 70px;
+	vertical-align: middle;
+}
+h3{
+	color: #3D58A6;
+	font-family: 'Roboto-Regular';
+	font-size: 22px;
+	margin:10px 0 0 20px;
+}
+.imag {
+	width: 102.87;
+	height: 145.5;
+	margin:20px 0 0 35px;
+}
+.imag1 {
+	margin:20px 0 0 60px;
+}
+.box1 p{
+   width: 355px;
+   font-family: 'Roboto-Regular';
+   font-size: 20px;
+   display: inline-block;
+   margin:20px 0 0 50px;
+   vertical-align: top;
+}
+.box2  p{
+   width: 353.49px;
+   display: inline-block;
+   font-family: 'Roboto-Regular';
+   font-size: 20px;
+   margin:20px 0 0 50px;
+   vertical-align: top;
+}
+.left{
+	margin:0 30px 0 30px;
+}
+.footer2{
+	margin:0 0 40px 110px;
+}
+.footer1{
+   margin:0 0 30px 50px;
+}
+.box3{
+	height:56px;
+	width:56px;
+	background-color: #3D58A6;
+	margin:40px 0 50px 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.box3 p{
+	font-size: 48px;
+	font-family: 'BPG Nino Mtavruli';
+	color:#FFFFFF;
+	text-align: center;
+	padding-top: 8px;
+	vertical-align: middle;
+}
+h4{
+	color:#3D58A6;
+	font-family: 'BPG Nino Mtavruli';
+	font-size: 22px;
+	display: inline-block;
+	margin-left: 25px;
+	vertical-align: middle;
+}
+h5{
+	margin: 0 0 20px 30px;
+	font-family: 'BPG Nino Mtavruli';
+	font-size: 20px;
+	color:#000000;
+}
+.photo{
+	margin-left: 30px;
+	display: inline-block;
+}
+.box-text{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	color:#000000;
+	display: inline-block;
+	width: 929.02px;
+	vertical-align: top;
+	margin-left: 40px;
+}
+.box-text-margin{
+	margin-bottom: 20px;
+}
+.box-text-margin1{
+	margin-bottom: 40px;
+}
+.box-text-margin2{
+	margin-bottom: 100px;
+}
+.box-text1{
+	font-family: 'BPG Ingiri Arial';
+	font-size: 16px;
+	color:#000000;
+	display: inline-block;
+	width: 929.02px;
+	vertical-align: top;
+	margin-left: 33.98px;
+}
+.photo1{
+	margin-left: 60px;
+	display: inline-block;
+}
+.page3{
+	background-color: #E6E6E6;
+	width: 100%;
+	height: 570px;
+	margin:82px 0 35px 0;
+}
+.box4{ 
+	height:92px;
+	width:250px;
+	/*padding: 70px 0 0 87px;*/
+	display: inline-block;
+	vertical-align: top;
+	margin:70px 0 0 87px;
+}
+ h6{
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli';
+	font-weight:bold;
+	color: #3D58A6;
+}
+.box4 p{
+	color:#808080;
+	font-size: 16px;
+	padding-top:8px;
+}
+.misamarti{
+	color: #000000;
+	font-size: 16px;
+	font-family: 'BPG Ingiri Arial';
+}
+.maps{
+	display: inline-block;
+	padding:50px 0 0 65px;
+	vertical-align: top;
+}
